@@ -1,0 +1,2 @@
+-- Author: Yazir, for: mtakp.pl
+-- If you want to use that coed, atleast give credits.

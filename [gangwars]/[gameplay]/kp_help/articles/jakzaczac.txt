@@ -1,0 +1,23 @@
+
+	Witaj na wprowadzeniu do naszego serwera Królewska Piaskownica! Jesteśmy pewni, że to początek wspaniałej przygody!
+
+	1.1. Początek
+		1. Jeśli dopiero się zarejestrowałeś, najprawdopodobniej jesteś przy peronie w LS. Rozejrzyj się i poszukaj białego punktu (marker) z szarym napisem 'Faggio'.
+		2. Jeżeli znalazłeś znacznik, wejdź w niego. Jeżeli się zgubiłeś i nie znalazłeś punktu, możesz zawsze użyć komendy '/spawn'.
+		3. Po wejściu w znacznik dostaniesz swój tymczasowy pojazd. Możesz użyć go by dojechać do punktu dołączania do gangu co jest teraz zalecane.
+		4. Inni gracze nie mogą Cię zabić kiedy jesteś cywilem i na odwrót, lecz staraj się unikać potyczek prowadzonych w mieście.
+		5. Na mapie powinieneś widzieć znaczki fioletowego (Ballas) i zielonego (Grove) ludzika. Prawdopodobnie widzisz inne znaczniki gangowe. Je jednak na tą chwilę zignoruj, ponieważ nie są one wskazane dla gracza o pierwszym poziomie (poziom sprawdzisz w napisie na dole, razem z godziną i pieniędzmi).
+		6. Pojedź do jednego z dwóch wcześniej opisanych znaczników. Znajdziesz tam punkt dołączania do gangu o kolorze wybranego gangu.
+		7. Aby dołączyć do gangu, wejdź w ten punkt i napisz '/gang join'. Przeniesie Cię na spawn gangu i ustawi podstawowy skin. Ten możesz zmienić pod [F5].
+		8. Gratulacje! Zostałeś członkiem gangu. Od teraz możesz zabijać członków wrogich gangów, przejmować tereny i brać udział w wydarzeniach.
+
+	1.2. Walka
+		1. Najprawdopodobniej nie masz broni. Wybierz się do ikonki broni na mapie. Na ten moment nie masz żadnego prywatnego pojazdu, więc weź darmowy pojazd z bazy Twojego gangu.
+		2. Niektóre tymczasowe pojazdy (znaczna większość) mają ograniczenie prędkości. Ta zależna jest od Twojego poziomu i pojazdu.
+		3. Kiedy już dotrzesz do sklepu, z pierwszym poziomem możesz kupić jedną broń - Colt. Kliknij na ikonkę Colta i na przycisk 'Checkout' aby go zakupić.
+		4. O ile umiesz posługiwać się bronią, nie jesteś już bezbronny. Jeżeli jednak potrzebujesz wprawy, możesz poćwiczyć strzelanie w pokoju DM lub BRoyale (kliknij [F2] kiedy jesteś w safezone, wybierz odpowiedni pokój i dołącz do niego).
+		5. Możesz już wyruszyć w miasto w poszukiwaniu przygód. Do sklepu z bronią będziesz jednak wracał często.
+
+		Policja nie jest Twoim wrogiem póki Twój wanted level nie przekracza 5 ( prawy górny róg ). W innym przypadku, policja może użyć wobec Ciebie siły i prawdopodobnie to zrobi.
+
+Tbd.

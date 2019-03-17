@@ -1,0 +1,27 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<include resource="object_preview" />
+
+	<script src="shared.lua" type="shared" />
+	<script src="server.lua" type="server" />
+	<script src="loot_server.lua" type="server" />
+	<script src="save_server.lua" type="server" />
+	<script src="client.lua" type="client" />
+
+	<file src="images/ak.png" />
+	<file src="images/colt.png" />
+	<file src="images/cuntgun.png" />
+	<file src="images/m4.png" />
+	<file src="images/mp5.png" />
+	<file src="images/sniper.png" />
+	<file src="images/stone.png" />
+	<file src="images/wood.png" />
+	<file src="images/rifleammo.png" />
+	<file src="images/shotgunammo.png" />
+	<file src="images/pistolammo.png" />
+
+	<export function="getItem" type="shared" />
+	<export function="getItemTable" type="shared"/>
+</meta>

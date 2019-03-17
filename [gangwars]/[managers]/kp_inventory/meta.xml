@@ -1,0 +1,24 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<script src="shared.lua" type="shared" />
+
+	<export function="getGlobalItemTable" type="shared" />
+	<export function="getGlobalItem" type="shared" />
+
+	<file src="itemimages/skinHarley.png" />
+	<file src="itemimages/skinGtav.png" />
+	<file src="itemimages/noicon.png" />
+	<file src="itemimages/grove1.png" />
+	<file src="itemimages/grove2.png" />
+	<file src="itemimages/grove3.png" />
+	<file src="itemimages/ballas1.png" />
+	<file src="itemimages/ballas2.png" />
+	<file src="itemimages/ballas3.png" />
+	<file src="itemimages/cop1.png" />
+	<file src="itemimages/cop2.png" />
+	<file src="itemimages/cop3.png" />
+</meta>

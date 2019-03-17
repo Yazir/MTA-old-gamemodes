@@ -1,0 +1,1 @@
+outputDebugString( "[MF] mf_resource (server.lua) start" )

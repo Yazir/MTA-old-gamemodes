@@ -1,0 +1,34 @@
+~Wstęp
+Witamy wszystkich użytkowników bardzo serdecznie. Jako projekt chcielibyśmy przedstawić wam, drogim graczom, nowy serwer, który oferuje przyjazny wstęp do naszej wirtualnej społeczności oraz coś nowego na polskiej scenie Multi Theft Auto. Ta reklama przedstawia najważniejsze, a zarazem jedne z najciekawszych aspektów naszego serwera. Wyjaśnimy wam również czego można się spodziewać i na czego można się spodziewać.
+
+Na wstępie chciałbym przekazać wam najważniejsze kwestie, które będą wyróżniały nasz serwer spośród innych serwerów oraz charakterystyczne podejście nasze do Was, drodzy gracze, którzy w uczestniczeniu naszej społeczności są niezbędni, dlatego jako administracja, chcemy widzieć na serwerze więcej nowych graczy. W tej reklamie prosimy Was o poświęcenie czasu i zapoznanie się z naszymi atrakcjami, które przygotowaliśmy i czekają już na serwerze!
+ 
+~Administracja
+Administracja - kwestia która jest dla graczy ważna, to właśnie my sprawujemy nad serwerem nadzór. Dbamy o to, by rozgrywka na naszym serwerze była przyjemna dla Was, jak równiesz dla administracji. Chcemy być z Wami w kontakcie nie tylko poprzez interwencję od strony technicznej, aczkolwiek razem będziemy uczestniczyć w rozgrywce. Jako administracja liczymy na sprawiedliwą grę. Naszym celem jest nawiązać z naszą społecznością jak najlepszy kontakt i go utrzymać tak długo, jak długo z nami będziecie!
+
+Kwestia która będzie punktem zainteresowania wśród nowych użytkowników, a mianowicie kogo możecie spodziewać się na serwerze od strony technicznej oraz wewnętrznej w udzieleniu wam pomocy. Aktualnie w administracji jestem tylko ja ( Yazir ), spora ilość osób zapyta dlaczego? Jako właściciel serwera szukam wśród społeczności Multi Theft Auto ludzi, którzy są odpowiedzialni i swoim zachowaniem będą reprezentowały godnie naszą społeczność oraz serwer, dlatego aktualnie nad wszystkim władzę sprawuję ja. Nie wykluczam możliwości rekrutacji aczkolwiek poszukujemy doświadczonych osób. Więcej informacji zobaczycie na naszym forum, które znajdziecie poniżej. Zachęcamy do odwiedzenia go.
+ 
+~Rozgrywka
+Coś na co czekaliście od początku wejścia w ten temat. Rozgrywka jest dla nas szczególnie ważna. Z doświadczenia wiemy, że gracze oczekują czegoś więcej niż standardów i celów, które narzucone są z góry, w tym temacie przedstawimy wam możliwości do wykorzystania dla, oraz rzeczy które są podstawą naszego serwera i trzymają nas w świetle rozgrywki "Policjanci i Złodzieje" - zapewne każdy słyszał o tak owej zabawie. Nasz serwer świetnie przedstawi wam rozgrywkę, która została przygotowana tak jak chcemy ją realizować. Tryb rozgrywki zadowoli Was pod każdym względem, ponieważ na serwerze znajdują się służby mundurowe oraz organizacje przestępcze, które toczą między sobą nieustanną walkę i organizują działania na terenie.
+
+Organizacje przestępcze na początku otrzymują stałe tereny, które będą ich miejscem przesiadywania oraz początkiem ich rozwoju, ale to nie koniec. własne tereny to zaledwie początek, ponieważ życie w małym naszym "kwadracie" staje się nudne, dlatego też z myślą o organizacjach przygotowaliśmy skrypt, który jest odpowiedzialny za nieustanną walkę po między gangami oraz służbami. Każdy gang posiadając swój teren może go rozwijać po przez przejmowanie go tocząc walkę z właścicielami terenu. Całość jest przedstawiona w ładnej oprawie, która będzie dla Was przedstawiona na mapie i oznaczona odpowiednimi tagami tj. kolorami Waszego gangu. Same gangi również mają to do siebie, że każdy z nich ma inne możliwości oraz inne pojazdy, oczywiście po za monotonnym strzelaniem się pozostaje również policja, która ma za zadanie pilnowanie cywili, którzy wśród gangów są zagrożeni. Los Santos które jest miejscem pełen przestępczości będzie odpowiednio kierowane przez służby. Na serwerze zadbaliśmy o realia, ponieważ z doświadczenia wiemy, że policja będzie prowokowała gangi do strzelanin jak i za równo działa to w drugą stronę. Dlatego przygotowaliśmy dla Was "Wanted level" - który będzie wskazywał Wasz stan poszukiwania wśród władz serwera, dlatego bez obaw gangster bez poziomu poszukiwań nie będzie zagrożony względem służb.
+
+Służby porządkowe. tutaj przygotowaliśmy również ciekawe atrakcje. Każdy funkcjonariusz zostaje wyposażony w podstawowe zaopatrzenie, w którego skład wchodzi m.in paralizator! - każdy funkcjonariusz otrzymuje paralizator, który po użyciu na ściganym ( Wanted level > 5 ) uniemożliwia wykonywanie niektórych czynności jak np. strzelanie czy bieganie. Dlatego ucieczka nie jest prosta, aczkolwiek możliwa! Co to oznacza? Podczas otrzymania strzału, nadal możecie się poruszać, ale znacznie wolniej.
+
+Wszystkie gangi a także służby porządkowe posiadają w wyposażeniu różne pojazdy, które są zależne od poziomu gracza na serwerze.
+ 
+~Dodatki
+Z doświadczenia wiemy, iż strzelanina po czasie staje się nudna, dlatego przygotowaliśmy dla Was Lobby, w którym każdy z Was znajdzie coś dla siebie a nowości z pewnością przypadną wam do gustu ponieważ rozpoczynamy zabawy od kilku trybów, takich jak:
+Battle Royale - Jego rozgrywka rozpoczyna się od wyrzucenia pasażerów samolotu na nad Los Santos gdzie zadaniem zawodników jest przetrwanie! Każdy gracz, która pozostaje przy życiu ma obowiązek odnaleźć jak największą ilość zasobów niezbędnych do zwyciężania bitwy, którymi są m.in. broń palna czy też zasoby pierwszej pomocy, które będą nieustannie towarzyszyć wam podczas walki! Między zawodnikami, którym tak samo jak Wam zależy na przeżyciu powstają walki - a to wszystko by wygrać rundę! - by nie pozostawiać Was w banalnym świetle rozgrywki, po 2 minutach rozprzestrzenia się trujący gaz przed którym trzeba uciekać w miejsce wyznaczone na mapie. Najprawdopodobniej w tej wyznaczonej strefie gracze stoczą ostateczną walkę o przetrwanie!
+
+Na serwerze również znajdują się takie tryby jak DM - wszystkim znany tryb polegający na wyeliminowaniu jak największej ilości innych uczestników. Odbywa się na określonym terenie, a gracz który zdobędzie jak najwięcej punktów za zabójstwa zostanie wynagrodzony! Po za tym trybem znajdzie się również miejsce dla miłośników czterech kół, który polega na tak zwanym "Drifcie". Dla fanów jednośladów jest jeszcze pokój stunt, który polega na zebraniu jak największej ilości punktów!
+ 
+~Administracja
+To co wielu interesuje, czyli to co siedzi pod serwerem.
+Aktualnie pracujemy nad skryptem w każdej wolnej chwili. Ten jest napisany indywidualnie, ponieważ skrypt został przygotowany w zupełności przez jednego autora czyli właściciela serwera. Skrypt nie figuruje po sieci i jest czysty, dlatego też, z pewnością nasz serwer będzie wyróżniał się na tle innych co doświadczycie sami dołączając do naszej społeczności oraz witając nas w grze! Tryb jest bez przerwy rozwijany, dlatego jest on z dnia na dzień coraz bardziej rozbudowany, o czym przekonacie się wchodząc na serwer!
+
+http://mtakp.pl/forum/
+
+Adres IP: 185.49.14.56
+
+Credits; WujekEddy, Nazio

@@ -1,0 +1,22 @@
+	
+	Biznesy są nieodłącznym dodatkiem klanów. Na tą chwilę nie mają dużego wachlarza zastosowań, ale to się zmieni.
+
+	1. Zakup biznesu
+		Biznesy można zakupić wchodząc w zielony znacznik domku. Niebieski oznacza, że biznes jest już kupiony;
+		Pieniądze do zakupu biznesu muszą być wpłacone na konto gangu.
+
+	2. Używanie biznesu
+		Biznes można użyć w panelu klanu [F6];
+		Efekt biznesu zależy od jego typu:
+			crib - Zawsze: Zwiększa maksymalną ilość biznesów. Nie obowiązuje go limit biznesów, jednak można kupić tylko jeden;
+			brothel - Zawsze: Zwiększa maksymalną ilość graczy w klanie;
+			money - Po użyciu: Po wejściu w obszar biznesu (jego fizyczna prezentacja) klan dostaje $;
+			illmoney - Po uzyciu: Po wejściu w obszar biznesu, dostaje się ciężarówkę którą trzeba dostarczyć do własnego biznesu 'laundry'. Po dostarczeniu klan dostaje $;
+			laundry - Zawsze: Służy do 'illmoney';
+			protection - Tymczasowo nie ma zastosowania.
+
+	3. Sprzedawanie biznesu
+		Tymczasowo nie ma możliwości sprzedania biznesu.
+
+	4. Przejmowanie biznesów
+		Tymczasowo nie ma takiej możliwości

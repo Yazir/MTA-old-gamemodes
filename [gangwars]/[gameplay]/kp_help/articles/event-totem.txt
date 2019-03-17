@@ -1,0 +1,11 @@
+
+	Totem jest reprezentowany zieloną flagą. Taki ma model i tak wygląda na mapie.
+	Każdy gracz odludek (/gang nomad) może zabrać totem, by dostawać exp i pieniądze. Za to jeszcze rośnie wanted level.
+	Aby dostawać nagrody, trzeba się przemieszczać.
+
+	Totem można stracić poprzez:
+		Śmierć,
+		Ustanie na pojeździe,
+		Wejście do pojazdu,
+		Wejście do safezone,
+		Wyjście po za strefy przejmowania terenów.

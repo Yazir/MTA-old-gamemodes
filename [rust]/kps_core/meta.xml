@@ -1,0 +1,21 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<include resource="kps_map_red" />
+	<include resource="kps_map_pink" />
+	<include resource="kps_map_blue" />
+	<include resource="kps_map_green" />
+	<include resource="kps_map_yellow" />
+
+	<include resource="kps_login" />
+	<include resource="kps_nametags" />
+	<include resource="kps_hud" />
+	<include resource="kps_inventory" />
+	<include resource="kps_modelReplace" />
+
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+
+	<export function="spawn" type="server" />
+</meta>

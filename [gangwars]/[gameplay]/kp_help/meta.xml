@@ -1,0 +1,16 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+
+	<file src="articles/reklama.txt" />
+	<file src="articles/biznesy.txt" />
+	<file src="articles/jakzaczac.txt" />
+	<file src="articles/regulamin.txt" />
+	<file src="articles/sposoby-zarobku.txt" />
+	<file src="articles/mechanika-policji.txt" />
+	<file src="articles/event-totem.txt" />
+
+</meta>

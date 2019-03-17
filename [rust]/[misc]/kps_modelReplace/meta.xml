@@ -1,0 +1,25 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+
+	<file src="files/weapons/ak47.dff" />
+	<file src="files/weapons/ak47.txd" />
+
+	<file src="files/weapons/desert_eagle.txd" />
+	<file src="files/weapons/desert_eagle.dff" />
+
+	<file src="files/weapons/mp5lng.dff" />
+	<file src="files/weapons/mp5lng.txd" />
+
+
+	<file src="files/peds/sas.txd" />
+	<file src="files/peds/sas1.dff" />
+	<file src="files/peds/sas2.dff" />
+	<file src="files/peds/sas3.dff" />
+	<file src="files/peds/sas4.dff" />
+	<file src="files/peds/sas5.dff" />
+	<file src="files/peds/sas6.dff" />
+</meta>

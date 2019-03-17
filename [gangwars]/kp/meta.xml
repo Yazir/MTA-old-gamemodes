@@ -1,0 +1,175 @@
+<meta>
+	<info author="Yazir" name="Wojny Inaczej Normalne WIN" type="gamemode" version="1.0.0" edf:definition="royale.edf" />
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<script src="core/dbase/dbaseServer.lua" type="server" />
+
+	<include resource="kp_login" />
+	<include resource="kp_safezones" />
+	<include resource="kp_inventory" />
+	<include resource="kp_nametags" />
+	<include resource="kp_vip" />
+	<include resource="kp_wpnShop" />
+	<include resource="kp_chat" />
+	<include resource="kp_eventTotem" />
+	<include resource="kp_combat" />
+	<include resource="kp_help" />
+	<include resource="kp_pns" />
+	<include resource="kp_modelReplace" />
+	<include resource="kp_goldendildo" />
+	<include resource="kp_stats" />
+
+	<include resource="scoreboard" />
+	<include resource="modshop" />
+	<include resource="3dspeaker" />
+	<include resource="notif" />
+	<include resource="royalemap" />
+	<include resource="royaledmmap" />
+	<include resource="kp-spawn" />
+	<include resource="hdhud" />
+	<include resource="killmessages" />
+	<include resource="bone_attach" />
+	<include resource="hdblips" />
+	<include resource="br_gas" />
+	<include resource="slothbot" />
+
+	<script src="exports/exportsServer.lua" type="server" />
+	<script src="exports/exportsClient.lua" type="client" />
+
+	<script src="coreShared.lua" type="shared" />
+	<script src="coreServer.lua" type="server" />
+	<script src="coreClient.lua" type="client" />
+	<script src="core/saveServer.lua" type="server" />
+	<script src="core/scoreboardClient.lua" type="client" />
+	<script src="core/chat/chatServer.lua" type="server" />
+
+	<script src="core/clans/clansServer.lua" type="server" />
+	<script src="core/clans/clansClient.lua" type="client" />
+
+	<script src="core/customWeapons/customWeaponsClient.lua" type="client" />
+	<script src="core/customWeapons/customWeaponsServer.lua" type="server" />
+	
+	<script src="core/experience/experienceClient.lua" type="client" />
+	<script src="core/experience/experienceServer.lua" type="server" />
+
+	<script src="core/nametags/nametagsClient.lua" type="client" />
+
+	<script src="core/spectator/spectatorClient.lua" type="client" />
+	<script src="core/spectator/spectatorServer.lua" type="server" />
+
+	<script src="core/vehicles/vehiclesServer.lua" type="server" />
+	<script src="core/vehicles/vehiclesClient.lua" type="client" />
+
+	<script src="core/hud/hudClient.lua" type="client" />
+	
+	<script src="core/sfx/sfxClient.lua" type="client" />
+
+	<script src="core/gangwars/gangwarsServer.lua" type="server" />
+	<script src="core/gangwars/gangwarsClient.lua" type="client" />
+	<script src="core/gangwars/crime/crimeServer.lua" type="server" />
+	<script src="core/gangwars/crime/crimeClient.lua" type="client" />
+
+	<script src="core/weaponShop/weaponShopServer.lua" type="server" />
+	<script src="core/weaponShop/weaponShopClient.lua" type="client" />
+
+	<script src="core/vehicleEvent/vehicleEventServer.lua" type="server" />
+	<script src="core/vehicleEvent/vehicleEventClient.lua" type="client" />
+
+	<script src="core/totemEvent/totemEventServer.lua" type="server" />
+
+	<script src="core/heists/heistsServer.lua" type="server" />
+	<script src="core/heists/heistsClient.lua" type="client" />
+
+	<script src="core/noticeboard/noticeboardServer.lua" type="server" />
+	<script src="core/noticeboard/noticeboardClient.lua" type="client" />
+
+	<script src="core/jobs/jobServer.lua" type="server" />
+
+	<script src="core/jobs/robber/jobRobberServer.lua" type="server" />
+
+	<script src="core/jobs/trucker/jobTruckerServer.lua" type="server" />
+	<script src="core/jobs/trucker/jobTruckerClient.lua" type="client" />
+	
+	<script src="core/jobs/medic/medicServer.lua" type="server" />
+	<script src="core/jobs/medic/medicClient.lua" type="client" />
+
+	<script src="mode/battleroyale/brServer.lua" type="server" />
+	<script src="mode/battleroyale/brClient.lua" type="client" />
+
+	<script src="mode/deathmatch/dmServer.lua" type="server" />
+	<script src="mode/deathmatch/dmClient.lua" type="client" />
+
+	<script src="mode/stunts/stServer.lua" type="server" />
+	<script src="mode/stunts/stClient.lua" type="client" />
+
+
+	<script src="mode/drift/drServer.lua" type="server" />
+	<script src="mode/drift/drClient.lua" type="client" />
+<!--
+	<script src="mode/truck/trServer.lua" type="server" />
+	<script src="mode/truck/trClient.lua" type="client" />
+-->
+	<script src="mode/rcDogfight/rcDogfightServer.lua" type="server" />
+	<script src="mode/rcDogfight/rcDogfightClient.lua" type="client" />
+
+	<file src="sfx/siren.mp3" />
+
+
+	<script src="files/replacementClient.lua" type="client" />
+
+	<file src="files/playerskins/harley.dff" />
+	<file src="files/playerskins/harley.txd" />
+	<file src="files/playerskins/vclothes.dff" />
+	<file src="files/playerskins/vclothes.txd" />
+	<file src="files/playerskins/grom.dff" />
+	<file src="files/playerskins/grom.txd" />
+	<file src="files/playerskins/diesel.dff" />
+	<file src="files/playerskins/diesel.txd" />
+
+	<!--
+	<file src="skins/weapons/ak74.dff" />
+	<file src="skins/weapons/ak74.txd" />
+	<file src="skins/weapons/akm.dff" />
+	<file src="skins/weapons/akm.txd" />
+	<file src="skins/weapons/aks74u.dff" />
+	<file src="skins/weapons/aks74u.txd" />
+	-->
+
+	
+
+	<file src="files/hud/hudBackdrop.png" />
+
+	<file src="files/sfx/weapon/ak.wav" />
+	<file src="files/sfx/weapon/deagle.wav" />
+	<file src="files/sfx/weapon/m4.wav" />
+	<file src="files/sfx/weapon/mp5.wav" />
+	<file src="files/sfx/weapon/pistole.wav" />
+	<file src="files/sfx/weapon/shotgun.wav" />
+	<file src="files/sfx/weapon/sniper.wav" />
+	<file src="files/sfx/weapon/tec-9.wav" />
+	<file src="files/sfx/weapon/uzi.wav" />
+	<file src="files/sfx/weapon/hitsound.wav" />
+
+
+	<file src="files/sfx/reload/mg_clipin.wav" />
+	<file src="files/sfx/reload/mg_reload.wav" />
+	<file src="files/sfx/reload/pistol_reload.wav" />
+	<file src="files/sfx/reload/shotgun_reload.wav" />
+	<file src="files/sfx/reload/shotgun_shell.wav" />
+
+	<file src="files/sfx/explosion/explosion1.wav" />
+	<file src="files/sfx/explosion/explosion2.wav" />
+	<file src="files/sfx/explosion/explosion3.wav" />
+
+
+	<export function="getGangTable" type="server" />
+	<export function="addMoney" type="server" />
+	<export function="addExp" type="server" />
+	<export function="addWanted" type="server" />
+	<export function="writeLog" type="server" />
+	<export function="saveWeapons" type="server" />
+	<export function="loadWeapons" type="server" />
+	<export function="getLobbys" type="server" />
+	<export function="gangJoinPlayer" type="server" />
+		
+</meta>

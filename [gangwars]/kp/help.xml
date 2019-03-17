@@ -1,0 +1,51 @@
+<help>
+Welcome to Królewska Piaskownica server!
+This server is currently in early stage, if you encounter any bugs, please inform a higher authority on the server.
+
+   *** Below you will find all the necessary informations to get you started! ***
+
+   Last update 22.02.17
+
+
+   1. Joining a lobby
+      Joining a lobby is simple. Upon pressing F2, a room window will appear (F2 again to close it). It contains all the necessary informations on the room.
+         Name - Room's name
+         Players - How many players are playing/joined the queue (players/maxplayers)
+         Status - "waiting" or "starting" signals that the room is open for joining. However if the room is "started" nobody can join it.
+      After selecting a desired room, simply pressing button "Join" on the right from the list.
+      If there are 2 or more people in the room, the game will start after 30 seconds (for the time it gets status "started")
+ 
+   2. Basic rules and gameplay
+      2.1. Match procedures
+         a. Upon a match start, every player is spawned above Los Santos with parachutes (will also be pushed in a random angle from there).
+         b. There are 180 seconds until the green (safe) zone appears in random location and toxic gasses start narrowing the playable area.
+         c. In the meantime players should look for weapons, medications, other items and vehicles placed around LS to get prepared for encounters.
+         d. The last person to survive wins the match and is sent to lobby.
+      
+      2.2. Using items
+         a. After walking over a pickupable item, there will be a message shown in the middle of the screen with name of the item.
+         b. To pick up an item, "X" key is used.
+         c. To use an item, "H" key is pressed. Player will be shown with inventory window, double-clicking (lmb) an item will use that item. If it's weapon it will equip it.
+ 
+   3. Features to be done.
+      We plan many more features than there already is. Some of them are:
+         - deathmatch rooms and more gamemodes,
+         - custom skins and custom CJ clothes,
+         - global ranks and reward system,
+         - excluded weapons and ammo,
+         - options and bindable hotkeys,
+         - advanced analyzed statistics,
+         - account levels,
+         - stacked items,
+         - spawn lobby
+ 
+   We hope to see you collaborate with us in developing this server!
+ 
+   4. Disclaimer      
+      Królewska Piaskownica Battle Royale gamemode is made and owned by PK "Yazir".
+      If you see any other server using near exact same gamemode, please report that to respective owner.
+
+      KP uses few open source resources which can be found on mtasa-resources.
+
+KP©2017
+</help>

@@ -1,0 +1,10 @@
+<meta>
+	<info author="DeMoNeK_" type="script" version="0.1" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	
+	<file src="f.ttf" cache="false" />
+
+	<export function="createNotification" type="client" cache="false" />
+	<export function="createNotification" type="server" />
+</meta>

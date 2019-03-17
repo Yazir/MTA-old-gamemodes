@@ -1,0 +1,18 @@
+
+	Dołączanie do policji
+		Aby dołączyć do policji wymagany jest 4 poziom.
+		Należy wejść w znacznik policjanta i wpisać /gang join (nie można mieć żadnej innej organizacji aktywnej).
+
+	Uprawnienia policji
+		Policja może zadać obrażenia graczom którzy mają większy wanted level niż 4.
+		Policja może użyć paralizatora (silenced) na graczach którzy mają większy wanted level niż 4.
+		Policja może użyć pałki policyjnej na graczu, aby pozyskać nagrodę za jego wanted level.
+
+		Policja nie może jednak wykonywać tych czynności w bezpiecznych strefach.
+
+	Pojazdy policji
+		Policja ma do dyspozycji 3 pojazdy:
+			Motor, radiowóz i ciężarówkę opancerzoną.
+
+	Zmiany w przyszłości
+		Podprace dla policji (SWAT, FBI)

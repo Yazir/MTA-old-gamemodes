@@ -1,0 +1,41 @@
+<meta>
+	<info author="Yazir" name="kpResource" type="script" version="1.0.0"/>
+	<min_mta_version client="1.5.3" server="1.5.3" />
+	
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+
+	<file src="files/weapons/ak47.dff" />
+	<file src="files/weapons/ak47.txd" />
+
+	<file src="files/weapons/colt45.dff" />
+	<file src="files/weapons/colt45.txd" />
+
+	<file src="files/weapons/cuntgun.dff" />
+	<file src="files/weapons/cuntgun.txd" />
+
+	<file src="files/weapons/desert_eagle.dff" />
+	<file src="files/weapons/desert_eagle.txd" />
+
+	<file src="files/weapons/m4.dff" />
+	<file src="files/weapons/m4.txd" />
+
+	<file src="files/weapons/micro_uzi.dff" />
+	<file src="files/weapons/micro_uzi.txd" />
+
+	<file src="files/weapons/mp5lng.dff" />
+	<file src="files/weapons/mp5lng.txd" />
+
+	<file src="files/weapons/silenced.dff" />
+	<file src="files/weapons/silenced.txd" />
+
+	<file src="files/weapons/tec9.dff" />
+	<file src="files/weapons/tec9.txd" />
+
+
+	<file src="files/peds/PV2.dff" />
+	<file src="files/peds/PV2.txd" />
+
+	<file src="files/weapons/goldendildo.dff" />
+	<file src="files/weapons/goldendildo.txd" />
+</meta>

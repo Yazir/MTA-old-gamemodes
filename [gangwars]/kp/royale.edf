@@ -1,0 +1,19 @@
+<def name="Battle Royale">
+	<element name="loot" friendlyname="Battleroyale Loot (loot)" >
+		<marker size="1" type="corona" color="#00ff00ff" />
+		<data name="group" type="integer" default="1" />
+	</element>
+	<element name="vehiclebr" friendlyname="Battleroyale vehicles (vehiclebr)" >
+		<marker size="1" type="corona" color="#0000ffff" />
+		<data name="group" type="integer" default="1" />
+	</element>
+	<element name="dmspawnpoint" friendlyname="Deathmatch Spawnpoint (dmspawnpoint)" >
+		<marker size="1" type="corona" color="#ffff00ff" />
+		<data name="mapName" type="string" default="default" />
+	</element>
+	<element name="dmmapoint" friendlyname="Deathmatch Map point (dmmappoint)" >
+		<marker size="1" type="corona" color="#7f7f00ff" />
+		<data name="mapName" type="string" default="default" />
+		<data name="range" type="integer" default="100" />
+	</element>
+</def>
